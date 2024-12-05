@@ -22,11 +22,18 @@ If frame full, find page to replace using future reference prediction
 Track and display page faults
 
 Output :
+
 Enter the number of pages (<1000):
+
 10
+
 Enter 10 pages:
+
 1 2 3 3 4 3 2 1 2 3
+
 Enter the number of frames (<100):
+
 2
+
 PAGE FAULTS = 7
 </b>
